@@ -1,4 +1,4 @@
-# The Teichmüller Space of Polygonable One-Holed Dilation Tori
+# The Teichmüller Space of Polygonable One-Holed Dilation Torus
 
 **Fulin Zhong — September 2026**
 
