@@ -1,4 +1,6 @@
-# The Teichmüller Space of Polygonable One-Holed Dilation Torus
+# The Teichmüller Space of Polygonable One-Holed Dilation Torus is $
+\mathrm{SL}_2(\mathbb{R}) \times \mathbb{R}^2.
+$
 
 **Fulin Zhong — September 2026**
 
