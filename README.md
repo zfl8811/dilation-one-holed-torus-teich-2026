@@ -2,7 +2,7 @@
 
 **Fulin Zhong — September 2026**
 
-We study polygonable dilation structures on the one-holed torus.
+We study polygonable dilation structures on the one-holed torus, and I wanna to give a more detailed typer of pdf in there.
 
 ## Problem
 
