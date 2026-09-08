@@ -2,11 +2,11 @@
 
 **Fulin Zhong — September 2026**
 
-This repository is devoted to polygonable dilation structures on the one-holed torus, described via pentagon presentations.
+We want to know polygonable dilation structures on the one-holed torus.
 
 ## Problem
 
-Determine the marked dilation Teichmüller space of polygonable one-holed tori.
+Paramatrising the marked dilation Teichmüller space of polygonable one-holed torus.
 
 ## Main result
 
@@ -16,7 +16,6 @@ $$
 \mathrm{SL}_2(\mathbb{R}) \times \mathbb{R}^2.
 $$
 
-A manuscript containing the precise formulation, construction, and proof will be deposited here as a PDF.
 
 ---
 
