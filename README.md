@@ -2,11 +2,11 @@
 
 **Fulin Zhong — September 2026**
 
-We study polygonable dilation structures on the one-holed torus, and I wanna to give a more detailed type of pdf in there.
+
 
 ## Problem
 
-Parametrize the marked dilation Teichmüller space of the polygonable one-holed torus.
+Parametrize the Teichmüller space of the polygonable one-holed dilation torus.
 
 ## Main Result
 
