@@ -10,7 +10,7 @@ Parametrize the Teichmüller space of the polygonable one-holed dilation torus.
 
 ## Main Result
 
-The marked dilation Teichmüller space of the polygonable one-holed torus admits an explicit parametrization and is identified with
+The Teichmüller space of the polygonable one-holed dilation torus admits an explicit parametrization and is identified with
 
 $$
 \mathrm{SL}_2(\mathbb{R}) \times \mathbb{R}^2.
