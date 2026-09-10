@@ -18,8 +18,7 @@ $$
 
 ## PDF
 
-[**Teichmüller space of one-holed dilation torus (PDF)**](./Teichmuller%20space%20of%20One%20holed%20dilation%20torus.pdf)
+[**Central Fibres and Global Teichmüller Coordinates for One-Holed Dilation Tori (PDF)**](./Central-Fibres-and-Global-Teichmuller-Coordinates-for-One-Holed-Dilation-Tori.pdf)
 
 ---
-
 
