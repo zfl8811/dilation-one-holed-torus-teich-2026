@@ -18,7 +18,7 @@ $$
 
 ## PDF
 
-[**Central Fibres and Global Teichmüller Coordinates for One-Holed Dilation Tori (PDF)**](./Central-Fibres-and-Global-Teichmuller-Coordinates-for-One-Holed-Dilation-Tori.pdf)
+[**Global Teichmüller Coordinates for One-Holed Dilation Tori (PDF)**](./Global-Teichmuller-Coordinates-for-One-Holed-Dilation-Tori.pdf)
 
 ---
 
